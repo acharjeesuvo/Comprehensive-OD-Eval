@@ -8,6 +8,7 @@ This repository serves as a **supplementary material archive** for the review pa
 This repository contains:
 
 - 📚 A curated list of **object detection algorithms** and corresponding **sensor modalities**
+- 📁 A curated list of **datasets** used in object detection across RGB, thermal, LiDAR, and other domains
 - 🔗 Hyperlinks to **official papers** and **GitHub repositories**
 - 📊 Summarized performance metrics across benchmarks (included in the paper)
 
@@ -21,9 +22,14 @@ Link to the various Dataset for Object Detection
 6) LLVIP Dataset	https://bupt-ai-cz.github.io/LLVIP/
 7) JUVDsi v1	https://link.springer.com/article/10.1007/s11042-023-14661-1
 8) IRUVD	https://www.kaggle.com/datasets/asfakali2/iruvd-dataset-for-automatic-vehicle-detection
+9) TBBR (Thermal Bridges on Building Rooftops) https://paperswithcode.com/dataset/tbbr
 
-
-
+Link to Various Articles
+---------------------------------------------------------------------------------------
+|Paper Name | Paper Link|
+-------------------------
+|A 3×3 isotropic gradient operator for image processing| https://www.researchgate.net/publication/285159837_A_33_isotropic_gradient_operator_for_image_processing|
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
