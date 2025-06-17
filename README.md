@@ -3,6 +3,14 @@
 This repository serves as a **supplementary material archive** for the review paper titled:
 **"Comprehensive Performance Analysis of Object Detection Algorithms Across Diverse Sensor Modalities"**
 
+## 🔍 Purpose of This Repository
+
+This repository contains:
+
+- 📚 A curated list of **object detection algorithms** and corresponding **sensor modalities**
+- 🔗 Hyperlinks to **official papers** and **GitHub repositories**
+- 📊 Summarized performance metrics across benchmarks (included in the paper)
+
 Link to the various Dataset for Object Detection
 ---------------------------------------------------------------------------------------
 1) KITTI Vision Benchmark Suite	https://www.cvlibs.net/datasets/kitti/ 
@@ -13,6 +21,8 @@ Link to the various Dataset for Object Detection
 6) LLVIP Dataset	https://bupt-ai-cz.github.io/LLVIP/
 7) JUVDsi v1	https://link.springer.com/article/10.1007/s11042-023-14661-1
 8) IRUVD	https://www.kaggle.com/datasets/asfakali2/iruvd-dataset-for-automatic-vehicle-detection
+
+
 
 
 
