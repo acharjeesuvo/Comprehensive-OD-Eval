@@ -29,9 +29,9 @@ Link to Various Articles
 |Paper Name | Paper Link|
 |-------------------------------------------------------------|----------------------------------------------------|
 |A 3×3 isotropic gradient operator for image processing| https://www.researchgate.net/publication/285159837_A_33_isotropic_gradient_operator_for_image_processing|
-|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+
 | A computational approach to edge detection. | https://chatgpt.com/c/68513b0a-ce80-8013-9c66-eae8c52b4b77|
-|----------------------------------------------------------------|---------------------------------------------------|
+
 
 
 
