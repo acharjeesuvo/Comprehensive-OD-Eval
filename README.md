@@ -38,6 +38,10 @@ Link to Various Articles
 |SSD: Single Shot MultiBox Detector|https://arxiv.org/abs/1512.02325|
 |Center-based 3D Object Detection and Tracking|https://arxiv.org/abs/2006.11275|
 |BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection|https://arxiv.org/abs/2206.10092|
+|FB-BEV: BEV Representation from Forward-Backward View Transformations|https://arxiv.org/abs/2308.02236|
+|BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers|https://arxiv.org/abs/2203.17270|
+|X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection|https://arxiv.org/abs/2303.02203|
+
 
 
 
