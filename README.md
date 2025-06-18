@@ -58,6 +58,13 @@ Link to Various Articles
 |28|MelNet: A Generative Model for Audio in the Frequency Domain|https://arxiv.org/abs/1906.01083|
 |29|EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks|https://arxiv.org/abs/1905.11946|
 |30|SECOND: Sparsely Embedded Convolutional Detection|https://www.mdpi.com/1424-8220/18/10/3337|
+|31|VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection|https://arxiv.org/abs/1711.06396|
+|32|STD: Sparse-to-Dense 3D Object Detector for Point Cloud|https://arxiv.org/abs/1907.10471|
+|33|PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection|https://arxiv.org/abs/1912.13192|
+|34|Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation|https://arxiv.org/abs/1907.06777|
+|35|Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection|https://arxiv.org/abs/2012.15712|
+|36|Frustum PointNets for 3D Object Detection from RGB-D Data|https://arxiv.org/abs/1711.08488|
+|37|Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation|https://arxiv.org/abs/1907.06777|
 
 
 
