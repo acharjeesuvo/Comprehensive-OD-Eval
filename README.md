@@ -27,7 +27,7 @@ Link to the various Dataset for Object Detection
 Link to Various Articles
 ---------------------------------------------------------------------------------------
 |Sl No|Paper Name | Paper Link|
-|----|--------------------------------------------------------|------------------------------------------------------------|
+|----|-----------------------------------------|------------------------------------------------------------|
 |1|A 3×3 isotropic gradient operator for image processing| https://www.researchgate.net/publication/285159837_A_33_isotropic_gradient_operator_for_image_processing|
 |2| A computational approach to edge detection. | https://chatgpt.com/c/68513b0a-ce80-8013-9c66-eae8c52b4b77|
 |3|Rapid object detection using a boosted cascade of simple features|https://ieeexplore.ieee.org/document/990517/|
@@ -40,7 +40,7 @@ Link to Various Articles
 |10|BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection|https://arxiv.org/abs/2206.10092|
 |11|FB-BEV: BEV Representation from Forward-Backward View Transformations|https://arxiv.org/abs/2308.02236|
 |12|BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers|https://arxiv.org/abs/2203.17270|
-|13X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection|https://arxiv.org/abs/2303.02203|
+|13|X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection|https://arxiv.org/abs/2303.02203|
 |14|Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection|https://arxiv.org/abs/2303.11926|
 
 
