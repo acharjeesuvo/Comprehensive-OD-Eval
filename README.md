@@ -27,7 +27,7 @@ Link to the various Dataset for Object Detection
 Link to Various Articles
 ---------------------------------------------------------------------------------------
 |Sl No|Paper Name | Paper Link|
-|-------|-------------------------------------------------------------------|------------------------------------------------------------------------|
+|----|--------------------------------------------------------|------------------------------------------------------------|
 |1|A 3×3 isotropic gradient operator for image processing| https://www.researchgate.net/publication/285159837_A_33_isotropic_gradient_operator_for_image_processing|
 |2| A computational approach to edge detection. | https://chatgpt.com/c/68513b0a-ce80-8013-9c66-eae8c52b4b77|
 |3|Rapid object detection using a boosted cascade of simple features|https://ieeexplore.ieee.org/document/990517/|
