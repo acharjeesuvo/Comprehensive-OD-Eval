@@ -48,6 +48,8 @@ Link to Various Articles
 |18|Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation|https://arxiv.org/abs/2404.15506|
 |19|LightedDepth: Video Depth Estimation in Light of Limited Inference View Angles|https://ieeexplore.ieee.org/document/10204374|
 |20|FutureDepth: Learning to Predict the Future Improves Video Depth Estimation|https://arxiv.org/abs/2403.12953|
+|21|CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception|https://arxiv.org/abs/2304.00670|
+|22|Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception|https://arxiv.org/html/2403.07746v1|
 
 
 
