@@ -73,6 +73,8 @@ Link to Various Articles
 |43|EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection|https://arxiv.org/abs/2007.08856|
 |44|EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection|https://arxiv.org/abs/2112.11088|
 |45|MSPE-Fusion: A multimodal 3D object detection method with multi-sensor perception enhanced fusion | https://www.sciencedirect.com/science/article/abs/pii/S0925231225011580 |
+|46|Joint 3D Proposal Generation and Object Detection from View Aggregation|https://ieeexplore.ieee.org/abstract/document/8594049|
+|47|Multi-view 3D object detection network for autonomous driving|https://openaccess.thecvf.com/content_cvpr_2017/html/Chen_Multi-View_3D_Object_CVPR_2017_paper.html|
 
 
 
