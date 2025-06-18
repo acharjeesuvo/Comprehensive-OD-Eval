@@ -50,6 +50,14 @@ Link to Various Articles
 |20|FutureDepth: Learning to Predict the Future Improves Video Depth Estimation|https://arxiv.org/abs/2403.12953|
 |21|CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception|https://arxiv.org/abs/2304.00670|
 |22|Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception|https://arxiv.org/html/2403.07746v1|
+|23|MVFusion: Multi-View 3D Object Detection with Semantic-aligned Radar and Camera Fusion|https://arxiv.org/abs/2302.10511|
+|24|FUTR3D: A Unified Sensor Fusion Framework for 3D Detection|https://arxiv.org/abs/2203.10642|
+|25|Searching for MobileNetV3|https://arxiv.org/abs/1905.02244|
+|26|YOLOv3: An Incremental Improvement|https://arxiv.org/abs/1804.02767|
+|27|What is YOLOv5: A deep look into the internal features of the popular object detector|https://arxiv.org/abs/2407.20892|
+|28|MelNet: A Generative Model for Audio in the Frequency Domain|https://arxiv.org/abs/1906.01083|
+|29|EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks|https://arxiv.org/abs/1905.11946|
+|30|SECOND: Sparsely Embedded Convolutional Detection|https://www.mdpi.com/1424-8220/18/10/3337|
 
 
 
