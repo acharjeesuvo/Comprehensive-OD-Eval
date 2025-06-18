@@ -30,6 +30,9 @@ Link to Various Articles
 |-------------------------------------------------------------|----------------------------------------------------|
 |A 3×3 isotropic gradient operator for image processing| https://www.researchgate.net/publication/285159837_A_33_isotropic_gradient_operator_for_image_processing|
 | A computational approach to edge detection. | https://chatgpt.com/c/68513b0a-ce80-8013-9c66-eae8c52b4b77|
+|Rapid object detection using a boosted cascade of simple features|https://ieeexplore.ieee.org/document/990517/|
+|Rich feature hierarchies for accurate object detection and semantic segmentation|https://arxiv.org/abs/1311.2524|
+|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|https://arxiv.org/abs/1506.01497|
 
 
 
