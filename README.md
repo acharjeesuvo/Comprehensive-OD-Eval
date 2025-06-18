@@ -33,6 +33,11 @@ Link to Various Articles
 |Rapid object detection using a boosted cascade of simple features|https://ieeexplore.ieee.org/document/990517/|
 |Rich feature hierarchies for accurate object detection and semantic segmentation|https://arxiv.org/abs/1311.2524|
 |Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|https://arxiv.org/abs/1506.01497|
+|R-FCN: Object Detection via Region-based Fully Convolutional Networks|https://arxiv.org/abs/1605.06409|
+|You Only Look Once: Unified, Real-Time Object Detection|https://arxiv.org/abs/1506.02640|
+|SSD: Single Shot MultiBox Detector|https://arxiv.org/abs/1512.02325|
+|Center-based 3D Object Detection and Tracking|https://arxiv.org/abs/2006.11275|
+|BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection|https://arxiv.org/abs/2206.10092|
 
 
 
