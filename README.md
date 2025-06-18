@@ -65,7 +65,14 @@ Link to Various Articles
 |35|Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection|https://arxiv.org/abs/2012.15712|
 |36|Frustum PointNets for 3D Object Detection from RGB-D Data|https://arxiv.org/abs/1711.08488|
 |37|Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation|https://arxiv.org/abs/1907.06777|
-
+|38|AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection|https://arxiv.org/abs/2201.06493|
+|39|DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection|https://arxiv.org/abs/2203.08195|
+|40|Focal Sparse Convolutional Networks for 3D Object Detection|https://arxiv.org/abs/2204.12463|
+|41|Multimodal 3D Object Detection on Unseen Domains|https://arxiv.org/abs/2404.11764|
+|42|PA3DNet: 3-D Vehicle Detection With Pseudo Shape Segmentation and Adaptive Camera-LiDAR Fusion|https://ieeexplore.ieee.org/document/10034840|
+|43|EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection|https://arxiv.org/abs/2007.08856|
+|44|EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection|https://arxiv.org/abs/2112.11088|
+|45|MSPE-Fusion: A multimodal 3D object detection method with multi-sensor perception enhanced fusion | https://www.sciencedirect.com/science/article/abs/pii/S0925231225011580 |
 
 
 
