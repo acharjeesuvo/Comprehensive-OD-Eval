@@ -76,7 +76,17 @@ Link to Various Articles
 |46|Joint 3D Proposal Generation and Object Detection from View Aggregation|https://ieeexplore.ieee.org/abstract/document/8594049|
 |47|Multi-view 3D object detection network for autonomous driving|https://openaccess.thecvf.com/content_cvpr_2017/html/Chen_Multi-View_3D_Object_CVPR_2017_paper.html|
 
+Summarized performance metrics
+---------------------------------------------------------------------------------------
+**Metrics Used to measure performance**
+1) Average Precsion (AP)
+2) mean Average Precision (mAP)
+3) Recall, Precision
+4) nuScenes Detection Score (NDS)
+5) Mean Average Precision (mAP) at an Intersection-over-Union (IoU) threshold of 50 (mAP@50)
 
+|Dataset|Modality|Mode|Best Algorithm|Metric|Score|
+|-----------------|---------------------------|----------|--------------------|-------------------|-----------|
 
 
 
