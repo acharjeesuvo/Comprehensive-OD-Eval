@@ -87,8 +87,7 @@ Summarized performance metrics
 
 |Dataset|Modality|Mode|Class|Best Algorithm|Metric|Score|
 |-----------------|---------------------------|----------|------------|--------------|-------------------|-----------|
-
-
+|KITTI|2-D Unmodal|-|Car|Mobilenetv3|mAP|0.77|
 
 
 
