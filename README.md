@@ -85,8 +85,8 @@ Summarized performance metrics
 4) nuScenes Detection Score (NDS)
 5) Mean Average Precision (mAP) at an Intersection-over-Union (IoU) threshold of 50 (mAP@50)
 
-|Dataset|Modality|Mode|Best Algorithm|Metric|Score|
-|-----------------|---------------------------|----------|--------------------|-------------------|-----------|
+|Dataset|Modality|Mode|Class|Best Algorithm|Metric|Score|
+|-----------------|---------------------------|----------|------------|--------------|-------------------|-----------|
 
 
 
