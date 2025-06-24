@@ -87,7 +87,28 @@ Summarized performance metrics
 
 |Dataset|Modality|Mode|Class|Best Algorithm|Metric|Score|
 |-----------------|---------------------------|----------|------------|--------------|-------------------|-----------|
-|KITTI|2-D Unmodal|-|Car|Mobilenetv3|mAP|0.77|
+|KITTI|2-D Unimodal|-|Car|Mobilenetv3|mAP|0.77|
+|KITTI|3-D Unimodal|Easy|Car| | | |
+|KITTI|3-D Unimodal|Easy|Cyclist| | | |
+|KITTI|3-D Unimodal|Easy|Pedestrian| | | |
+|KITTI|BEV Unimodal|Easy|Car| | | |
+|KITTI|BEV Unimodal|Easy|Cyclist| | | |
+|KITTI|BEV Unimodal|Easy|Pedestrian| | | |
+|KITTI|3-D Unimodal|Moderate|Car| | | |
+|KITTI|3-D Unimodal|Moderate|Cyclist| | | |
+|KITTI|3-D Unimodal|Moderate|Pedestrian| | | |
+|KITTI|BEV Unimodal|Moderate|Car| | | |
+|KITTI|BEV Unimodal|Moderate|Cyclist| | | |
+|KITTI|BEV Unimodal|Moderate|Pedestrian| | | |
+|KITTI|3-D Unimodal|Hard|Car| | | |
+|KITTI|3-D Unimodal|Hard|Cyclist| | | |
+|KITTI|3-D Unimodal|Hard|Pedestrian| | | |
+|KITTI|BEV Unimodal|Hard|Car| | | |
+|KITTI|BEV Unimodal|Hard|Cyclist| | | |
+|KITTI|BEV Unimodal|Hard|Pedestrian| | | |
+|KITTI|Multimodal|Hard|Car| | | |
+|KITTI|Multimodal|Hard|Cyclist| | | |
+|KITTI|Multimodal|Hard|Pedestrian| | | |
 
 
 
