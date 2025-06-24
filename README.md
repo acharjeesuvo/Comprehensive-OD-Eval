@@ -109,6 +109,7 @@ Summarized performance metrics
 |KITTI|Multimodal|Hard|Car| | | |
 |KITTI|Multimodal|Hard|Cyclist| | | |
 |KITTI|Multimodal|Hard|Pedestrian| | | |
+|nuScene|||| | | |
 
 
 
